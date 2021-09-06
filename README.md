@@ -20,7 +20,7 @@ Here is StartZYP, a Independent game developer from China.
 我是来自中国的一名独立游戏组件开发者。
 
 <a href="#">
-  <img align="right" alt="AndtunO's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndtunO&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
+  <img align="right" alt="AndtunO's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StartZYP&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
 </a>
 
 I encourage myself by sharing my project code on GitHub.
